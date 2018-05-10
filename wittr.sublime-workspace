@@ -1,0 +1,391 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"fl",
+				"flex-direction"
+			],
+			[
+				"wr",
+				"word-wrap"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"col",
+				"col-sm-4"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"b",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wittr/public/js/sw/index.js",
+			"settings":
+			{
+				"buffer_size": 102,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wittr/templates/idb-test.hbs",
+			"settings":
+			{
+				"buffer_size": 112,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 340.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/cindy/Documents/ALCwithGoogle3/wittr",
+		"/home/cindy/Documents/ALCwithGoogle3/wittr/public",
+		"/home/cindy/Documents/ALCwithGoogle3/wittr/public/js",
+		"/home/cindy/Documents/ALCwithGoogle3/wittr/public/js/main",
+		"/home/cindy/Documents/ALCwithGoogle3/wittr/templates"
+	],
+	"file_history":
+	[
+		"/home/cindy/Documents/achieng_blog/src/static/css/atelier-estuary-light.css",
+		"/home/cindy/Documents/achieng_blog/src/static/css/styles2.css",
+		"/home/cindy/Documents/lists/negative_index.py",
+		"/home/cindy/Documents/lists/indexing.py",
+		"/home/cindy/Documents/achieng_blog/src/templates/sidebar.html",
+		"/home/cindy/Documents/achieng_blog/src/blog/views.py",
+		"/home/cindy/Documents/achieng_blog/src/static/css/styles1.css",
+		"/home/cindy/Documents/achieng_blog/src/blog/templates/blog/post/list.html",
+		"/home/cindy/Documents/cindy/Django Books/Django_By_Example_Code/Chapter 3/mysite/blog/templates/blog/post/list.html",
+		"/home/cindy/Documents/achieng_blog/src/blog/templates/blog/post/detail.html",
+		"/home/cindy/Documents/achieng_blog/src/blog/templates/base.html",
+		"/home/cindy/Documents/achieng_blog/src/templates/base.html",
+		"/home/cindy/Documents/achieng_blog/src/static/css/styles.css",
+		"/home/cindy/Documents/achieng_blog/src/static/css/tomorrow.css",
+		"/home/cindy/Documents/achieng_blog/src/accounts/templates/accounts/login.html",
+		"/home/cindy/Documents/achieng_blog/src/accounts/templates/account/login.html",
+		"/home/cindy/Documents/achieng_blog/src/accounts/templates/account/base.html",
+		"/home/cindy/Documents/achieng_blog/src/accounts/templates/account/signup.html",
+		"/home/cindy/Documents/achieng_blog/src/accounts/templates/account/logout.html",
+		"/home/cindy/Documents/achieng_blog/src/accounts/templates/base.html",
+		"/home/cindy/Documents/achieng_blog/src/newsletter/templates/newsletter/subscribe.html",
+		"/home/cindy/Documents/achieng_blog/src/newsletter/templates/newsletter/subscribe_email.txt",
+		"/home/cindy/Documents/achieng_blog/src/newsletter/templates/newsletter/subscribe_email.html",
+		"/home/cindy/Documents/achieng_blog/src/achiengblog/settingslive.py",
+		"/home/cindy/Documents/achieng_blog/src/newsletter/views.py",
+		"/home/cindy/Documents/achieng_blog/src/newsletter/templates/newsletter/unsubscribe_email.html",
+		"/home/cindy/Documents/achieng_blog/src/newsletter/templates/newsletter/unsubscribe_email.txt",
+		"/home/cindy/Documents/achieng_blog/src/newsletter/migrations/0004_auto_20180313_0956.py",
+		"/home/cindy/Documents/achieng_blog/src/newsletter/urls.py",
+		"/home/cindy/Documents/achieng_blog/src/staticfiles/staticfiles.json",
+		"/home/cindy/Documents/achieng_blog/src/achiengblog/settings.py",
+		"/home/cindy/Documents/achieng_blog/src/newsletter/forms.py",
+		"/home/cindy/Documents/achieng_blog/src/templates/metatags.html",
+		"/home/cindy/Documents/achieng_blog/src/achiengblog/urls.py",
+		"/home/cindy/Documents/achieng_blog/src/comm.html",
+		"/home/cindy/Documents/cindy/laughing-blog/src/newsletter/views.py",
+		"/home/cindy/Documents/achieng_blog/src/accounts/urls.py",
+		"/home/cindy/Documents/achieng_blog/src/blog/templates/note.html",
+		"/home/cindy/Documents/achieng_blog/src/.env",
+		"/home/cindy/Documents/achieng_blog/src/static",
+		"/home/cindy/Documents/achieng_blog/src/templates"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wittr/public/js/sw/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								99,
+								102
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "wittr/templates/idb-test.hbs",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "wittr.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
